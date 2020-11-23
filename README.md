@@ -1,2 +1,4 @@
 # CPP-CECS2200-FinalRally
-Computer Programming Fundamentals class with C++ // Final
+
+CECS 2200 Computer Programming Fundamentals class // Spring 2020
+The final was a rally in which I was able to do the following problems during class time.
